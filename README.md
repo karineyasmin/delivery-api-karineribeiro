@@ -35,4 +35,3 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 ## 👨‍💻 Desenvolvedor
 Karine Ribeiro - Turma: TI58 02728 Arquitetura de Sistemas 
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
-=======
