@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Delivery Tech API
 
 Sistema de delivery desenvolvido com Spring Boot e Java 21.
@@ -37,5 +36,3 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 Karine Ribeiro - Turma: TI58 02728 Arquitetura de Sistemas 
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
 =======
-Repositório dedicado a impletação do projeto Delivery Tech com Java 21.
->>>>>>> 063034758989118d48da0f2fb33cfd701e98b6f7
